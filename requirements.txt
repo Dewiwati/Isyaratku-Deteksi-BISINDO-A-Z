@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+streamlit-autorefresh
+opencv-python
+mediapipe
+numpy
+joblib
+av
