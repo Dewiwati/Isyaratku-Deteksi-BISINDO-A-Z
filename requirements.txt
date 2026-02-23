@@ -6,3 +6,5 @@ mediapipe
 numpy
 joblib
 av
+scikit-learn
+
